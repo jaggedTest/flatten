@@ -1,0 +1,6 @@
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\bin\Release\ArrayParser.dll
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\bin\Release\ArrayParser.pdb
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\obj\Release\ArrayParser.csprojAssemblyReference.cache
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\obj\Release\ArrayParser.csproj.CoreCompileInputs.cache
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\obj\Release\ArrayParser.dll
+C:\Users\bret_\source\repos\ArrayParser\ArrayParser\obj\Release\ArrayParser.pdb

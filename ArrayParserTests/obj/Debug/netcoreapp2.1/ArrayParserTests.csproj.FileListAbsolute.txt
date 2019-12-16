@@ -1,0 +1,17 @@
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParserTests.deps.json
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParserTests.runtimeconfig.json
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParserTests.runtimeconfig.dev.json
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParserTests.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParserTests.pdb
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParser.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\bin\Debug\netcoreapp2.1\ArrayParser.pdb
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.csprojAssemblyReference.cache
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.csproj.CoreCompileInputs.cache
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.AssemblyInfoInputs.cache
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.AssemblyInfo.cs
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.csproj.CopyComplete
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.dll
+C:\Users\bret_\source\repos\ArrayParser\UnitTestProject2\obj\Debug\netcoreapp2.1\ArrayParserTests.pdb
