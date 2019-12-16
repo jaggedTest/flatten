@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayParser", "ArrayParser\ArrayParser.csproj", "{BEBB6114-0E66-476F-B855-67BEE9FCDEB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayParserTests", "UnitTestProject2\ArrayParserTests.csproj", "{4DC21DE2-1221-42AA-ABEC-2B4F912A2AF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayParserTests", "ArrayParserTests\ArrayParserTests.csproj", "{4DC21DE2-1221-42AA-ABEC-2B4F912A2AF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
